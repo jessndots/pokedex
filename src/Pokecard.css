@@ -1,0 +1,17 @@
+.Pokecard {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    height: 200px;
+    background-color: gray;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.Pokecard > h3 {
+    margin-bottom: 0px;
+}
+
+.Pokecard > p {
+    margin: 0px;
+}

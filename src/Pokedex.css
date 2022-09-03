@@ -1,0 +1,10 @@
+.Pokedex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.Pokedex-header {
+    text-align: center;
+}
